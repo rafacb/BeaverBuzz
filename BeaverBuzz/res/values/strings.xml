@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, BeaverBuzz!</string>
+    <string name="hello">LOGIN</string>
     <string name="app_name">BeaverBuzz</string>
+    <string name="onClick">onClickHandler</string>
+    <string name="username">User Name: </string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
 </resources>
