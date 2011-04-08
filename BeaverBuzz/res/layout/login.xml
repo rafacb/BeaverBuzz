@@ -12,7 +12,7 @@
 	<TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/username"></TextView>
     <EditText android:text="" android:id="@+id/editText1" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
 	<TextView android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/password"></TextView>
-    <EditText android:text="" android:id="@+id/editText2" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+    <EditText android:text="" android:id="@+id/editText2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:password="true"></EditText>
 	<Button android:id="@+id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/login"></Button>
 	<Button android:id="@+id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/register"></Button>
 </TableLayout>
